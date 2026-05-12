@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/khorkutu/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Khorkutu](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/khorkutu/) |
+| **Get License** | [Get a Licensing Quote for Khorkutu](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/khorkutu/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> হারিয়েছি আমি তোমার ওই নেশার মোহনায়
+> খড়কুটো হয়ে ভাসি শুধু তোমার কামনায়
+> ছুঁয়ে দাও আমাকে আজ রাতের এই গভীরে
+> অচেনা এক তৃষ্ণা জাগে আমার এই শরীরে
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

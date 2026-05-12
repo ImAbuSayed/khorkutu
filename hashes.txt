@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Khorkutu
+
+This log tracks the cryptographic history and versioning for the song **Khorkutu** (khorkutu).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-12T07:24:24.642478 | `v1` | `686530e14692c1113a095b1b54dda84e64a74cb3a4f4519c5dcd01a019dda09b` | `d6cdea4f43e43072d31fc067e7b26b8f1260bc9b2195d1b50c6b3a1dc59e3409` | `2026-05-12_khorkutu-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

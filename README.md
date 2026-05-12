@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/khorkutu/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Khorkutu](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/khorkutu/) |
+| **Get License** | [Obtain a Music License for Khorkutu](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/khorkutu/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `686530e14692c1113a095b1b54dda84e64a74cb3a4f4519c5dcd01a019dda09b` |
 | **Timestamp** | May 12, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
